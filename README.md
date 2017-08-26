@@ -1,1 +1,2 @@
-# jekyllblog
+# Khang Tran
+# a dedicated CS student
