@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Finally moved my blog to Jekyll"
+date:   2015-06-10 02:00:00 -0400
+categories: blog
+---
+For too long I was meaning to do this and it feels great now that I've finally moved my blog from
+WordPress to Jekyll. There are lots of compelling reasons for why thousands of other people and I
+moved to Jekyll. The foremost is - I hate WordPress.
+
+1. WordPress is slow (because PHP)
+2. WordPress is bulky and 95% of the stuff is unneeded
+3. Running locally required the whole MAMP stack 
+4. Difficult to customize
+5. Tired of running security updates
+6. I like Markdown
+7. GitHub has a decent hosting and it's free.
+
+... just to name a few.
+
+Jekyll is simple and easy to use with a gentle learning curve. For me this took away a barrier and an amount 
+of fuss, so I can focus more on content. Future blog posts will be focused on my projects, academia and 
+opinions in my field of study.
