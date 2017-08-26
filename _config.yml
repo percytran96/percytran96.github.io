@@ -7,8 +7,8 @@
 
 # Site settings
 title: Khang Tran
-phone: 415-519-6143
 email: percytran96@gmail.com
+phone: 415-519-614
 description: > # this means to ignore newlines until "baseurl:"
   Repository of my projects.
 url: "percytran96.github.io" # the base hostname & protocol for your site
