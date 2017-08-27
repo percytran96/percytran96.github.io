@@ -12,7 +12,6 @@ I’m a Computer Science student who lives in SF. When I was a kid, I always bel
 #### Languages and Softwares
 `Java`&nbsp;&nbsp;&nbsp;`JavaScript`&nbsp;&nbsp;&nbsp;`C++`&nbsp;&nbsp;&nbsp;
 
-`Python`&nbsp;&nbsp;&nbsp;`PHP`&nbsp;&nbsp;&nbsp;`MySQL`
+`Python`&nbsp;&nbsp;&nbsp;`PHP`&nbsp;&nbsp;&nbsp;`SQL`&nbsp;&nbsp;&nbsp;`PostgreSQL`&nbsp;&nbsp;&nbsp;
 
-
-`HTML`&nbsp;&nbsp;&nbsp;`CSS`&nbsp;&nbsp;&nbsp;`Git`&nbsp;&nbsp;&nbsp;
+`HTML`&nbsp;&nbsp;&nbsp;`CSS`&nbsp;&nbsp;&nbsp;`Git`&nbsp;&nbsp;&nbsp;`Ruby on Rails`&nbsp;&nbsp;&nbsp;
