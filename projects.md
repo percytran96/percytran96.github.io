@@ -4,4 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-To be continued...
+### C++ practice
+Small program written in C++
+https://github.com/percytran96/C-practice
