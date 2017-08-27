@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### Infrastructure
+### Infrastructure casual bootcamp
 It was a casual bootcamp hosted by a senior developer, I was in the team of infrastructure, working with PostgreSQL databases.
 There were backend and frontend teams too, we were working on site and on [Slack](https://slack.com/).
 
