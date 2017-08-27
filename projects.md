@@ -6,4 +6,5 @@ permalink: /projects/
 
 ### C++ practice
 Small program written in C++
-https://github.com/percytran96/C-practice
+{% include icon-github.html username="percytran96" %} /
+[C++practice](https://github.com/aamirsahmad/TreasureHunt)
