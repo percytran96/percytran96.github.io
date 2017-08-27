@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Infrastructure
 In the team of Infrastructure working with PostgreSQL databases.
-There are backend and frontend teams too, we were working on site and on [slack](https://slack.com/).
+There are backend and frontend teams too, we were working on site and on [Slack](https://slack.com/).
 
 {% include icon-github.html username="percytran96" %} /
 [CatExtension](https://github.com/percytran96/funChromeExtension)
