@@ -6,10 +6,10 @@ permalink: /projects/
 
 ### Infrastructure
 It was a casual bootcamp hosted by a senior developer, I was in the team of infrastructure, working with PostgreSQL databases.
-There are backend and frontend teams too, we were working on site and on [Slack](https://slack.com/).
+There were backend and frontend teams too, we were working on site and on [Slack](https://slack.com/).
 
-{% include icon-github.html username="percytran96" %} /
-[Dev-Bootcamp](https://github.com/ntjandra/6Nought-Dev-Bootcamp)
+
+{% include icon-github.html %} [Dev-Bootcamp](https://github.com/ntjandra/6Nought-Dev-Bootcamp)
 
 
 
