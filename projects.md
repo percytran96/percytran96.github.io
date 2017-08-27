@@ -6,7 +6,7 @@ permalink: /projects/
 
 ### Web app casual bootcamp
 It was a casual bootcamp hosted by a senior developer, I was in the team of infrastructure, working with PostgreSQL databases.
-There were backend and frontend teams too, we occasionally switched roles to try out different tasks, we were working on site and on [Slack](https://slack.com/).
+There were also the frontend and backend teams, we occasionally switched roles to try out different tasks, we were working on site and on [Slack](https://slack.com/).
 
 
 {% include icon-github.html %} [Dev-Bootcamp](https://github.com/ntjandra/6Nought-Dev-Bootcamp)
