@@ -3,6 +3,16 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
+### Infrastructure
+In the team of Infrastructure working with PostgreSQL databases.
+There are backend and frontend teams too, we were working on site and on [slack](https://slack.com/).
+
+{% include icon-github.html username="percytran96" %} /
+[CatExtension](https://github.com/percytran96/funChromeExtension)
+
+
+
 ### The cat extension
 An extension that shows a gif of a cute cat
 
