@@ -6,4 +6,4 @@ categories: blog
 tags: [project, hackathon]
 ---
 
-here it is: ![](percytran96.github.io/img/jformdesigner.png?raw=true)
+![Screenshot](https://percytran96.github.io/img/jformdesigner.png)
