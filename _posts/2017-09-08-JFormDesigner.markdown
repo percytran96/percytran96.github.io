@@ -6,4 +6,4 @@ categories: blog
 tags: [project, hackathon]
 ---
 
-(https://percytran96.github.io/img/Screenshot%20(1).png)
+here it is: ![](percytran96.github.io/img/Screenshot (1).png)
