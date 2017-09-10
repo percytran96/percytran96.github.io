@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 ### Simple calculator
-A calculator written in java language using a [JFormDesigner](https://www.formdev.com/) GUI design plugin for IntelliJ IDEA  
+A calculator written in java language using [JFormDesigner](https://www.formdev.com/) GUI design plugin for IntelliJ IDEA  
 
 
 {% include icon-github.html username="percytran96" %} /
