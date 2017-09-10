@@ -4,6 +4,14 @@ title: Projects
 permalink: /projects/
 ---
 
+### Simple calculator
+A calculator written in java language using a [JFormDesigner](https://www.formdev.com/) GUI design plugin for IntelliJ IDEA  
+
+
+{% include icon-github.html %} [java-calculator](https://github.com/percytran96/Java-calculator)
+
+
+
 ### Web app casual bootcamp
 A casual bootcamp hosted by a senior developer, I was in the infrastructure team, working with PostgreSQL databases. There were also the frontend and backend teams, we occasionally switched roles to try out different tasks, we were working on site and on [Slack](https://slack.com/).
 
