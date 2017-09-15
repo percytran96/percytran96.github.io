@@ -30,7 +30,7 @@ An extension that shows a gif of a cute cat
 
 
 
-### Java practice
+### Java applications
 Small programs written in Java
 
 {% include icon-github.html username="percytran96" %} /
@@ -38,7 +38,7 @@ Small programs written in Java
 
 
 
-### C++ practice
+### C++ applications
 Small programs written in C++
 
 {% include icon-github.html username="percytran96" %} /
