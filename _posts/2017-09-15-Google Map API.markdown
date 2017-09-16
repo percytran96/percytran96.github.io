@@ -6,5 +6,5 @@ categories: blog
 tags: [project, hackathon]
 ---
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="KXpYXE" data-default-tab="html,result" data-user="percytran96" data-embed-version="2" data-pen-title="KXpYXE" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/percytran96/pen/KXpYXE/">KXpYXE</a> by Khang (<a href="https://codepen.io/percytran96">@percytran96</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="300" data-theme-id="31292" data-slug-hash="KXpYXE" data-default-tab="html,result" data-user="percytran96" data-embed-version="2" data-pen-title="KXpYXE" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/percytran96/pen/KXpYXE/">KXpYXE</a> by Khang (<a href="https://codepen.io/percytran96">@percytran96</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
