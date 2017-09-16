@@ -7,4 +7,4 @@ tags: [project, hackathon]
 ---
 
 
-[test](https://github.com/percytran96/google-map-api/blob/master/RouteToSchool.html)
+[Google Maps API](https://cdn.rawgit.com/percytran96/google-map-api/678ca25b/RouteToSchool.html)
