@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Simple Map app
+## Simple map app
 A map app shows route from home to school using Google Maps API
 
 {% include icon-github.html username="percytran96" %} /
