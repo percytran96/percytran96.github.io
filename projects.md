@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+## Simple Map app
+A map app shows route from home to school using Google Maps API
+
+{% include icon-github.html username="percytran96" %} /
+[maps-api](https://github.com/percytran96/google-map-api)
+
 ### Simple calculator
 A calculator written in java language using [JFormDesigner](https://www.formdev.com/) GUI design plugin for IntelliJ IDEA  
 
