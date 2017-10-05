@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "A.I Chatbot"
+date:   2017-10-05 14:55:21 -0400
+categories: blog
+tags: [project, hackathon]
+---
+
+
+<style>
+// You can customize the css styles here
+#botlibrebox {} #botlibreboxbar {} #botlibreboxbarmax {} #botlibreboxmin {} #botlibreboxmax {} #botlibreboxclose {} #botlibrebubble-text {} #botlibrebox-input {}
+</style>
+<script type='text/javascript' src='https://www.botlibre.com/scripts/sdk.js'></script>
+<script type='text/javascript'>
+SDK.applicationId = "1108482994902157717";
+SDK.backlinkURL = "http://www.botlibre.com/login?affiliate=percytran96";
+var sdk = new SDKConnection();
+var web = new WebChatbotListener();
+web.connection = sdk;
+web.instance = "19296747";
+web.instanceName = "J.A.R.V.I.S_X2";
+web.prefix = "botlibre";
+web.caption = "Chat Now";
+web.boxLocation = "bottom-right";
+web.color = "#009900";
+web.background = "#fff";
+web.css = "chatlog";
+web.buttoncss = "blue_round_button";
+web.version = "5.3";
+web.bubble = true;
+web.backlink = true;
+web.showMenubar = true;
+web.showBoxmax = true;
+web.showSendImage = true;
+web.showChooseLanguage = true;
+web.chatLog = true;
+web.popupURL = "https://www.botlibre.com/chat?&id=19296747&embedded=true&chatLog=true&application=1108482994902157717&menubar=true&menubar=true&chooseLanguage=true&sendImage=true&background=%23fff&prompt=You+say&send=Send";
+web.createBox();
+</script>
