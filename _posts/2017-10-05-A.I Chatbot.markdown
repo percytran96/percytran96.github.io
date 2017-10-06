@@ -11,4 +11,4 @@ tags: [project, hackathon]
 
 
 If it shows something like API calls have reached maximum limit, you can check it at this link ->
-[ai-chatbot](https://botlibre.com/browse?id=19297023).
+[chatbot](https://botlibre.com/browse?id=19297023).
