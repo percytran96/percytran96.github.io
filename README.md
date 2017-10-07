@@ -12,10 +12,10 @@ Depend on your site purpose, you can grab a free template at [Jekyll Themes](htt
 The one I'm using is [Pixyll](http://pixyll.com/), a very light weight and customizable template. I love the speed and simplicity of it.
 
 # What the site contains
-*My personal infos and way to contact me
-*Some live demos of my projects
-*link to my project repos
-*Random thoughts
+* My personal infos and way to contact me
+* Some live demos of my projects
+* Link to my project repos
+* Random thoughts
 
 
  
