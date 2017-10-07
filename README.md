@@ -11,6 +11,11 @@ https://help.github.com/categories/github-pages-basics
 Depend on your site purpose, you can grab a free template at [Jekyll Themes](http://jekyllthemes.org/) to modify at your own taste.
 The one I'm using is [Pixyll](http://pixyll.com/), a very light weight and customizable template. I love the speed and simplicity of it.
 
-# What it contains
+# What the site contains
+*My personal infos and way to contact me
+*Some live demos of my projects
+*link to my project repos
+*Random thoughts
+
 
  
