@@ -7,3 +7,6 @@ https://github.com
 
 After you have a github account, look into the official guide of Github Pages to get started
 https://help.github.com/categories/github-pages-basics
+
+Depend on your site purpose, you can grab a free template at [Jekyll Themes](http://jekyllthemes.org/) to modify at your own taste 
+ 
