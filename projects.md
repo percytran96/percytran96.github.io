@@ -4,13 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-## Simple map app
+### Route to School
 A map app shows route from home to school using Google Maps API
 
 {% include icon-github.html username="percytran96" %} /
 [maps-api](https://github.com/percytran96/google-map-api)
 
-### Simple calculator
+### Java GUI calculator
 A calculator written in java language using [JFormDesigner](https://www.formdev.com/) GUI design plugin for IntelliJ IDEA  
 
 
@@ -19,7 +19,7 @@ A calculator written in java language using [JFormDesigner](https://www.formdev.
 
 
 
-### Web app casual bootcamp
+### Battleship webapp
 A casual bootcamp hosted by a senior developer, I was in the infrastructure team, working with PostgreSQL databases. There were also the frontend and backend teams, we occasionally switched roles to try out different tasks, we were working on site and on [Slack](https://slack.com/).
 
 
@@ -27,7 +27,7 @@ A casual bootcamp hosted by a senior developer, I was in the infrastructure team
 
 
 
-### The cat extension
+### The nerdy cat extension
 An extension that shows a gif of a cute cat
 
 {% include icon-github.html username="percytran96" %} /
